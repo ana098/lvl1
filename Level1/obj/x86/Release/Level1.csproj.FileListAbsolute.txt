@@ -1,0 +1,6 @@
+C:\Users\X\AppData\Local\Temporary Projects\Level1\bin\Release\Level1.exe
+C:\Users\X\AppData\Local\Temporary Projects\Level1\bin\Release\Level1.pdb
+C:\Users\X\AppData\Local\Temporary Projects\Level1\obj\x86\Release\Level1.exe
+C:\Users\X\AppData\Local\Temporary Projects\Level1\obj\x86\Release\Level1.pdb
+C:\Users\X\documents\visual studio 2010\Projects\Level1\Level1\obj\x86\Release\Level1.exe
+C:\Users\X\documents\visual studio 2010\Projects\Level1\Level1\obj\x86\Release\Level1.pdb

@@ -1,0 +1,15 @@
+C:\Users\X\Documents\Visual Studio 2010\Projects\Level1\Level1\bin\Debug\Level1.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\Level1\Level1\bin\Debug\Level1.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\Level1\Level1\obj\x86\Debug\Level1.exe
+C:\Users\X\Documents\Visual Studio 2010\Projects\Level1\Level1\obj\x86\Debug\Level1.pdb
+C:\Users\X\Documents\Visual Studio 2010\Projects\Level1\Level1\obj\x86\Debug\Level1.csprojResolveAssemblyReference.cache
+C:\Users\nedicm\Downloads\Level1\Level1\Level1\obj\x86\Debug\Level1.pdb
+C:\Users\nedicm\Downloads\Level1\Level1\Level1\obj\x86\Debug\Level1.csprojResolveAssemblyReference.cache
+C:\Users\nedicm\Downloads\Level1\Level1\Level1\bin\Debug\Level1.exe
+C:\Users\nedicm\Downloads\Level1\Level1\Level1\bin\Debug\Level1.pdb
+C:\Users\nedicm\Downloads\Level1\Level1\Level1\obj\x86\Debug\Level1.exe
+C:\Users\X\Desktop\Level1\Level1\obj\x86\Debug\Level1.exe
+C:\Users\X\Desktop\Level1\Level1\obj\x86\Debug\Level1.pdb
+C:\Users\X\Desktop\Level1\Level1\bin\Debug\Level1.exe
+C:\Users\X\Desktop\Level1\Level1\bin\Debug\Level1.pdb
+C:\Users\X\Desktop\Level1\Level1\obj\x86\Debug\Level1.csprojResolveAssemblyReference.cache
